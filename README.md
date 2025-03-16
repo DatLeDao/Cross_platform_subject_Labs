@@ -1,5 +1,5 @@
 ### Cross_platform_subject_Labs
-This is labs of the cross-platform subject.
+This have labs of the cross-platform subject.
 
 ###### Họ và tên sinh viên: Lê Đào Quốc Đạt
 ###### Mã sinh viên: 21IT193
